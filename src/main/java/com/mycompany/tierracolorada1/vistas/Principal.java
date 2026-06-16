@@ -39,7 +39,7 @@ public class Principal {
     ProcesoControlador procesoCtrl = new ProcesoControlador();
     AuditoriaControlador seguridadCtrl = new AuditoriaControlador();
 
-    System.out.println("    sISTEMA DE TRAZABILIDAD - tierra colorada     ");
+    System.out.println("    sistemassss DE TRAZABILIDAD - tierra colorada     ");
     
 
         boolean loginExitoso = false;
